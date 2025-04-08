@@ -1,3 +1,5 @@
 Está área deve ser usada para guardar fontes de aplicativo(s), como:
-  - Fontes do projeto;
-  - ...
+  -.java;
+  -.t;
+  -.php;
+  -.sql;
